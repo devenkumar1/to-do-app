@@ -1,0 +1,160 @@
+/* index sizing */
+
+@media screen and (max-width:1200px) {
+    .right-mid{
+        margin-left: 7%;
+        font-size: 3.6rem;
+        #start{
+            margin-top: -18%
+        }
+    }
+}
+
+
+@media screen and (max-width:991px) {
+    .sidebar{
+    display: inline-block;
+    margin-block:10px ;
+     }
+
+     .r1{
+        display: none;
+     }
+
+     .right-mid{
+        font-size: 3.8rem;
+        margin-bottom: 10px;}
+        #start{
+            margin-top: -22%
+        }
+       
+     }
+
+#mid{
+    flex-direction: column;
+
+}
+#sline{
+    margin-top: -110px;
+}
+#start{
+    margin-top: -200px;
+}
+#img1{
+    margin-top: 105px;
+}
+.right-mid{
+    margin-left: 35%;
+}
+#sline{
+    margin-left: 8%;
+}
+.signup{
+    width: 80%;
+  margin-left: 10%;
+  margin-top:5%
+}
+    
+
+    @media screen and (max-width:767px){
+        .right-mid{
+            margin: left 1%;
+            margin-top: 8%;
+            font-size: 3.4rem;
+        }
+        #start{
+            margin-top: -210px;
+        }
+        #start{
+            margin-top: -22%
+        }
+
+        #sup{
+            font-size:3.1rem;
+        }
+        
+    }
+
+
+
+    @media screen and (max-width:478px) {
+.bar{
+    width: 50px;
+}
+#logo{
+   max-width: 50%;
+  
+}
+
+         .right-mid{
+            margin-left:-3%;
+            margin-top: 34%;
+            font-size: 2.2rem;
+            padding-right: 20px;
+        }
+        #start{
+            max-width: 100px;
+            max-height: 100px;
+        }
+        #sline{
+
+margin-top:-70px;
+
+        }
+        #sline{
+            display: none;
+        }
+        #start{
+            margin-top: -17%
+        }
+
+        #wd{
+            text-align: center;
+            font-size: 2.2rem;
+        }
+        #img1{
+            margin-top: 29%;
+            margin-left: 12%;
+
+        }
+        #sline{
+            width:5.6em
+        }
+
+        .foot{
+            font-size: small;
+            min-height: 80px;
+
+        }
+        .bar{
+            overflow: hidden;
+        }
+    
+    /* login-page */
+
+    .ps{
+      max-height: 90vh; 
+    }
+    #sup{
+        font-size:2.8rem;
+    }
+    #l-form{
+        padding-left: 13%;
+        padding-bottom: 4%;
+    }
+    .bt1{
+        margin-left: 10%;
+        
+    }
+    #sup{
+       
+       margin-left: 18%;
+        
+    }
+.left-mid{
+    margin-left: -2%;
+}
+    
+    }
+
+    

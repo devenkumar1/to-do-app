@@ -1,0 +1,128 @@
+
+@media screen and(max-width:1200px){
+   .sidebar{
+      display: none;
+   }
+}
+
+
+@media screen and (max-width:991px){
+
+
+ .m{
+   height:70%;
+   margin-top: 1%;
+   padding-left: 30px;
+   overflow: scroll;
+
+
+ }
+
+#pic{
+   float: none;
+   height:45%;
+   margin-top: 13px;
+   width: 50%;
+   margin-left: 20%;
+}
+
+.in{
+   padding-top: 20px;
+   }
+   .r1{
+      display: none;
+   }
+   .sidebar{
+      display: inline-block;
+      margin-block:3% ;
+       }
+
+}
+
+
+
+@media screen and (max-width:767px){
+  .foot{
+   height:70px;
+  }
+   .bl1{
+
+
+      position: relative;
+      margin-top: 17%;
+      margin-left:38%;
+      
+      
+      }
+
+   .bl2{
+
+
+      margin-top: 35px;
+      margin-left: 38%;
+      float: left;
+      }
+
+   .bl3{
+
+      margin-top: 45px;
+      margin-left: 38%;
+      float: left;
+      }
+      .info{
+         flex-direction:column ;
+         gap: 0px;
+      }
+}
+
+
+
+@media screen and (max-width:478px) {
+
+.foot{
+   height:10vw ;
+}
+#ftext{
+   font-size: smaller;
+}
+
+.ls{
+   font-size: small;
+}
+
+.bl2{
+   font-size: small;
+}
+.bl3{
+   font-size: small;
+}
+
+.f1{
+   .f1{
+      padding: 0%;
+  }
+}
+.main{
+   margin-left: -8rem;
+}
+input{
+   width:10rem;
+}
+
+.hs{
+   font-size: 2.3rem;
+}
+text{
+   width: 6rem;
+}
+}
+
+
+
+
+
+
+
+
+
+

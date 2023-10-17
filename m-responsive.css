@@ -1,0 +1,37 @@
+
+@media screen and (max-width:767px){
+
+    .todo-list{
+        margin-top: 2rem;
+        padding-bottom: 1rem;
+         gap: 1rem;
+        width: 20rem;
+        height: 28rem;
+        margin-left:1rem;
+}
+h1{
+    font-size: 2.2rem;
+    color:rgb(202, 68, 68);
+}
+
+.sidebar{
+    display: inline-block;
+    margin-block:3% ;
+     }   
+
+     .r1{
+        display: none;
+     }
+
+     a{
+        text-decoration: none;
+     }
+
+     .foot{
+        font-size: small;
+        min-height: 80px;
+
+    }
+    
+     }
+
