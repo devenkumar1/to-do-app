@@ -48,6 +48,7 @@ flex-wrap: wrap;
     font-size: small;
     margin-top: 3.8rem;
     text-align: center;
+       z-index: 100;
     transition: 1s ease-in;
   }
   .dropdown-content h2{
